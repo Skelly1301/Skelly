@@ -15,5 +15,5 @@ Skelly has not yet been released to the public. To test the alpha version of the
 [![Skelly official support and beta testing server](https://discord.com/api/guilds/977236894389772368/widget.png?style=banner3)](https://discord.gg/tkPsx5WbK8)
 
 ## Code
-Please do not copy Skelly's code. If you would like to borrow small snippets, please DM me on Discord (skelly#3625).
+Please do not copy Skelly's code. If you would like to borrow small snippets, please dm me on Discord (skelly#3625).
 <br> I have made this repository so people can contribute and open issues to help with the development for the bot.
