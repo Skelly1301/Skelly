@@ -14,7 +14,7 @@ import keep_alive
 from math import floor
 
 
-TOKEN = "OTczMjg1NTAyMjE4MzAxNDUw.GkAXvH.Lk-SxYz8RfzCIbDHxFi-I9sHExGWxOlOF5yOBk"
+TOKEN = ""
 intents = discord.Intents.default()
 bot = commands.Bot(command_prefix='$', intents=intents)
 bot.remove_command('help')
